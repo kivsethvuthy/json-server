@@ -1,22 +1,20 @@
 {
-    "data":[
-        {
-            "id": "",
-            "name": "Coffee Culture",
-            "views": "350",
-            "rating": "45",
-            "type": "Coffee",
-            "location": "Phnom Penh",
-            "full_location": "No 100, St 430, Chamkamon, Phnom Penh",
-            "open_hours": "Hours Today: 7:00 am - 9:00 pm",
-            "phone": "0966622227",
-            "price": "cash",
-            "food_type": "Khmer",
-            "status": "Open Now",
-            "star": "4.0",
-            "review": "56",
-            "distance": "0.2km",
-            "image": "https://www.jongnhams.com/uploads/0966622227/store1.jpg"
-        }
-    ]
+    "data": {
+        "id": "",
+        "name": "Coffee Culture",
+        "views": "350",
+        "rating": "45",
+        "type": "Coffee",
+        "location": "Phnom Penh",
+        "full_location": "No 100, St 430, Chamkamon, Phnom Penh",
+        "open_hours": "Hours Today: 7:00 am - 9:00 pm",
+        "phone": "0966622227",
+        "price": "cash",
+        "food_type": "Khmer",
+        "status": "Open Now",
+        "star": "4.0",
+        "review": "56",
+        "distance": "0.2km",
+        "image": "https://www.jongnhams.com/uploads/0966622227/store1.jpg"
+    }
 }
