@@ -1,7 +1,7 @@
 {
     "data":[
         {
-            "id": "",
+            "id": "1",
             "name": "Coffee Culture",
             "views": "350",
             "rating": "45",
@@ -20,7 +20,7 @@
             "image": "https://www.jongnhams.com/uploads/0966622227/store1.jpg"
         },
         {
-            "id": "",
+            "id": "2",
             "name": "Tube Cafe",
             "views": "400",
             "rating": "24",
@@ -39,7 +39,7 @@
             "image": "https://i0.wp.com/serviceone-kh.com/wp-content/uploads/2018/10/1-5.jpg?resize=561%2C561"
         },
         {
-            "id": "",
+            "id": "3",
             "name": "Amazon Cafe",
             "views": "400",
             "rating": "24",
